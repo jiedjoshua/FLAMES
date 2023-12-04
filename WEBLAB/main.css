@@ -1,0 +1,60 @@
+body{
+    background: radial-gradient(circle at 5.3% 17.2%, rgb(255, 208, 253) 0%, rgb(255, 237, 216) 90%);
+}
+.bg{
+    background-color: #FFF8F8;
+    opacity: 90%;
+}
+.t1{
+    padding-top: 60px;
+    font-family: 'Pangolin', cursive;
+    color: #D75050;
+    margin-bottom: 0px;
+}
+
+.t2{
+    font-size: small;
+    padding-top: 0px;
+    padding-bottom: 18px;
+    font-family: 'Pangolin', cursive;
+    color: #D75050;
+}
+
+.square-container {
+    max-width: 540px;
+    height: 475px;
+}
+
+#name{
+    padding-top: 20px;
+    padding-bottom: 5px;
+    font-family: 'Pangolin', cursive;
+    color: #D75050;
+}
+
+.form-control{
+    font-family: 'Pangolin', cursive;
+}
+
+
+.pad1{
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.next{
+    padding-top: 75px;
+}
+
+.btn{
+    background-color: #D75050; 
+    color: white;
+    font-family: 'Pangolin', cursive;
+    padding: 6px 18px;
+}
+
+.btn:hover{
+    background-color: white;
+    color: #D75050;
+    border-color: #D75050;
+}

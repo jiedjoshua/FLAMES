@@ -1,0 +1,78 @@
+body{
+    background: radial-gradient(circle at 5.3% 17.2%, rgb(255, 208, 253) 0%, rgb(255, 237, 216) 90%);
+}
+
+.title h1{
+    padding-top: 0%;
+    font-size: 60px;
+    font-family: 'Pangolin', cursive;
+    color: #D75050;
+    padding-bottom: 10px;
+}
+
+.title h2{
+    font-size: 30px;
+    padding-top: 60px;
+    font-family: 'Pangolin', cursive;
+    color: #D75050;
+}
+
+.bg{
+    background-color: #FFF8F8;
+
+}
+
+.square-container {
+    max-width: 500px;
+}
+
+.heart{
+    max-height: 30%;
+    padding: 0px;
+}
+
+.t1{
+    padding-top: 45px;
+    font-size: 35px;
+    font-family: 'Pangolin', cursive;
+    color: #D75050;
+    margin-bottom: 0px;
+    padding-bottom: 30px;
+}
+
+.t2{
+    padding-left: 30px;
+    font-family: 'Pangolin', cursive;
+    color: #D75050;
+}
+
+.zodiac{
+   padding-top: 15px;
+   padding-bottom: 30px;
+   max-width: 30%;
+}
+
+.cp{
+    position: relative;
+}
+
+.overlay-text{
+    position: absolute;
+    color: white;
+    font-family: 'Pangolin', cursive;
+    font-size: 20px;
+}
+
+#btn{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+    background-color: #D75050;
+    color: white;
+    font-family: 'Pangolin', cursive;
+}
+
+.cpad{
+    padding-top: 30px;
+    padding-right: 0px;
+}
